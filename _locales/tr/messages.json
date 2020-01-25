@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Blockchain Keşfet; Xplore",
+    "description": "Bitcoin, Litecoin, Ethereum için blok gezgini ..."
+  },
+  "appDesc": {
+    "message": "Bir tarayıcı araç çubuğunda blockchain gezginini gösterir.",
+    "description": "Bitcoin, Litecoin, Ethereum, Ripple, Dash, Tether için blok gezgini."
+  }
+}

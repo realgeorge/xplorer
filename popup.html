@@ -1,0 +1,35 @@
+<!doctype html>
+<link rel="stylesheet" href="css/bootstrap-3.3.7.min.css">
+<link rel="stylesheet" href="css/chrome.css">
+<div class="container-fluid">
+		<div class="form-group">
+			<br>
+			<label for="block">Search by</label>
+			<input type="text" class="form-control" id="block" value="" placeholder="Wallet Address or Transaction ID">
+		</div>
+		<div class="form-group">
+			<label>Blockhain</label>
+			<div class="dropdown">
+				<button class="btn btn-default dropdown-toggle" type="button" id="blockchain" data-value="bitcoin" data-toggle="dropdown">
+					Bitcoin
+					<span class="caret"></span>
+				</button>
+				<ul class="dropdown-menu">
+					<li><a href="#" data-value="bitcoin">Bitcoin</a></li>
+					<li><a href="#" data-value="ethereum">Ethereum</a></li>
+					<li><a href="#" data-value="litecoin">Litecoin</a></li>
+					<li><a href="#" data-value="ripple">Ripple</a></li>
+					<li><a href="#" data-value="ripple">Dash</a></li>
+					<li><a href="#" data-value="tether">Tether</a></li>
+				</ul>
+			</div>
+		</div>
+		<br>
+		<div class="form-group">
+			<button type="button" id="search" class="btn btn-primary btn-block">Search</button>
+		</div>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap-3.3.7.min.js"></script>
+	<script src="js/script.js"></script>
+	<script src="js/moment.min.js"></script>

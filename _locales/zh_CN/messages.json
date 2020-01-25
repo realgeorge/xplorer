@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "区块链资源管理器 Xplore",
+    "description": "比特币，莱特币，以太坊的区块浏览器..."
+  },
+  "appDesc": {
+    "message": "在浏览器工具栏中显示区块链浏览器。",
+    "description": "比特币，莱特币，以太坊，Ripple，Dash，Tether的区块浏览器。"
+  }
+}

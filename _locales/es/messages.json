@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Blockchain Explorer; Xplore",
+    "description": "Explorador de bloques para Bitcoin, Litecoin, Ethereum ..."
+  },
+  "appDesc": {
+    "message": "Muestra el explorador de blockchain en una barra de herramientas del navegador.",
+    "description": "Explorador de bloques para Bitcoin, Litecoin, Ethereum, Ripple, Dash, Tether."
+  }
+}
